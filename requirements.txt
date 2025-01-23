@@ -1,0 +1,4 @@
+vanna==0.7.5
+streamlit==1.41.1
+pandas==2.2.3
+SQLAlchemy~=2.0.37
